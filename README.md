@@ -1,5 +1,5 @@
-##Olá! Eu sou a Ingrid Mielnik :)
+##Hi! I'm Ingrid Mielnik :)
 
-- 🌱 I’m currently learning C#
+- 🌱 I'm currently learning HTML, Javascript, CSS, Angular and C#
 - 📫 Contate-me no email: ingridmielnik@gmail.com
-- 😄 Pronouns: ela/dela
+
